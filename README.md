@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/POCExercise2/sample/_apis/build/status/JoshuaRoi.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/POCExercise2/sample/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
